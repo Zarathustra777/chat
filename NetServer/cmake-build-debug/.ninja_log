@@ -1,0 +1,6 @@
+# ninja log v5
+0	9136	1695770183469363443	CMakeFiles/chat_server.dir/net_server.cpp.o	580b36a41e53e7e5
+5	8072	1695770320347164496	CMakeFiles/chat_server.dir/net_server.cpp.o	580b36a41e53e7e5
+8078	8323	1695770320607166528	chat_server	cbb9274674bdea1c
+11	7452	1695854189064727018	CMakeFiles/chat_server.dir/net_server.cpp.o	580b36a41e53e7e5
+7453	7620	1695854189241394869	chat_server	cbb9274674bdea1c
